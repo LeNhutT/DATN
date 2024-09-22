@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66f0528d745ba4b71b168a56"
+  },
+  "username": "tien04",
+  "email": "tien2004@email.com",
+  "password": "$2a$10$jyP.WkOCVy65XRkXQvfFz.gsS5P3qC4ONbjrasWm4PO10WFfW7SMG",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f0577ae17be67c41084d6d"
+  },
+  "username": "tien2004",
+  "email": "tien2003@email.com",
+  "password": "$2a$10$pof7t274sb8PY3fJJdVGDOQUUT9e4ejpjGwUyBXkPRLjX3tVCpl7m",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f0589e2e5bd3b476200f2b"
+  },
+  "username": "tien2002",
+  "email": "tien2002@email.com",
+  "password": "$2a$10$7cQrWnpJ7tFgYa/YYBmDVeTU5DdYHAkGFW3dnpXFvwX2HrOqnuIGS",
+  "__v": 0
+}]
